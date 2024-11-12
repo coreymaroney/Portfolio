@@ -15,4 +15,7 @@ export default {
     },
   },
   plugins: [],
+  // corePlugins: {
+  //   fontSmoothing: false,
+  // },
 } satisfies Config;
